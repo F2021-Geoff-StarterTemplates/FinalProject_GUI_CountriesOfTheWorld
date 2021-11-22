@@ -1,5 +1,6 @@
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QMessageBox
+from PyQt5.QtGui import QPixmap
 
 #ADD IMPORT STATEMENT FOR YOUR GENERATED UI.PY FILE HERE
 import Ui_ChangeMe
